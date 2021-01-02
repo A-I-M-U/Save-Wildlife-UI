@@ -103,9 +103,9 @@ window.onload = ()=>{
         window.location.href = 'https://github.com/Atul1409';
     }
     
-    function open_sl(){
-        window.location.href = 'https://www.sololearn.com/Profile/19034561';
-    }
+    function open_yt(){
+    window.location.href = 'https://youtube.com/c/Tyroworld';
+}
     
     alert(`
      Click on the name of animal on stories 
